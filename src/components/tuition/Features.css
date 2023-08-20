@@ -1,0 +1,11 @@
+.imgClass {
+    width: "100%";
+    text-align:"center"
+}
+.hrTag{
+    background-color:"#254061";
+     width:"40%";
+    height:"6px";
+    border-radius:"10px";
+    opacity:"50%"
+}
